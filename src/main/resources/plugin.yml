@@ -1,0 +1,18 @@
+name: DamageIndicator
+version: '${project.version}'
+main: com.damageindicator.DamageIndicatorPlugin
+api-version: '1.20'
+author: DamageIndicator
+description: A plugin that shows how much damage was dealt
+commands:
+  damageindicator:
+    description: Toggle damage indicator display
+    usage: /damageindicator [on|off]
+    aliases: [di, damage]
+permissions:
+  damageindicator.use:
+    description: Allows players to see damage indicators
+    default: true
+  damageindicator.toggle:
+    description: Allows players to toggle damage indicators
+    default: true
