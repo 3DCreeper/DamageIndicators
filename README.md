@@ -50,7 +50,7 @@ Example: `Zombie -5.0 ♥15.0/20.0`
 
 ## Requirements
 
-- Minecraft Server 1.20.4 (compatible with Spigot/Paper)
+- Minecraft Server 1.20.4 or higher (compatible with Spigot/Paper)
 - Java 17 or higher
 
 ## Support
